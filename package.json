@@ -1,0 +1,23 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "server/core.js",
+  "scripts": {
+    "pretest": "jshint ."
+  },
+  "engines": {
+  },
+  "dependencies": {
+    "loopback": "^2.14.0",
+    "loopback-boot": "^2.6.5",
+    "loopback-datasource-juggler": "^2.19.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.6"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "description": "core"
+}
